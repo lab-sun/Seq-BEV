@@ -14,7 +14,9 @@ Semantic Bird-Eye-View (BEV) map is a straightforward data representation for en
 - We create a dataset with semantic ground-truth labels in full view from the nuScenes dataset to train and test our method.
 
 # Training and Testing
+
 Pretrain weights and dataset:
+
 https://nas.labsun.org/downloads/2025_tits_seqbev/
 
 Train the Seq-BEV:
